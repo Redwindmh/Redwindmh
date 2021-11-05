@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Redwindmh
 - 👀 I’m interested in web dev, game creation and prog metal \m/
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS, JavaScript, php, Wordpress and a few frameworks
 - 💞️ I’m looking to collaborate on game creation at some point
 
 <!---
