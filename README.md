@@ -1,4 +1,4 @@
-# Hello, world! <a href="https://redwindmh.github.io/MH_3D_Portfolio/" style="color:crimson; text-decoration:none;">Malcolm Hendricks</a> here!
+# Hello, world! <a href="https://redwindmh.github.io/MH_3D_Portfolio/" style="color:red; text-decoration:none;">Malcolm Hendricks</a> here!
 
 Hello and thanks for reading! I'm a professional translator, editor, and writer turned programmer and web developer. While I may be relatively new to the world of programming and computer science, my passion for it can be seen in the many projects both software and hardware-based that I am forever building!
 
