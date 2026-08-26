@@ -1,16 +1,67 @@
-# Hello, world! <a href="https://redwindmh.github.io/MH_3D_Portfolio/" style="color:crimson; text-decoration:none;">Malcolm Hendricks</a> here!
 
-Hello and thanks for reading! I'm a professional translator, editor, and writer turned programmer and web developer. While I may be relatively new to the world of programming and computer science, my passion for it can be seen in the many projects both software and hardware-based that I am forever building!
+# Hi, I'm <a href="https://redwindmh.github.io/MH_3D_Portfolio/" style="color:crimson; text-decoration:none;">Malcolm Hendricks</a>
 
-My current focus as a programmer is on React-based frontend with a Django backend, but I also have experience building web apps using WordPress, Laravel, and WYSIWYG services like Wix.
+I'm a software engineer and systems builder based in Japan, interested in the places where **software, Linux, networks, embedded systems, radio, automation, and physical machines intersect**.
 
-Recently, I've been working on two major personal projects. The first is an online version of the board game called [Covenants](https://github.com/Redwindmh/Covenants), as invented by comic book creator Andrew Carl, using TypeScript in React, webhooks, and hosting it on my own Nginx web server running on a Raspberry Pi. The second is a perhaps overly ambitious idea that ties my two professions--web development and translation--together: an AI Assisted Translation project called [Redsetta](https://github.com/Redwindmh/Redsetta_Stone) using AI specifically for English <--> Japanese translation. If you are interested in collaborating or perhaps helping me find rare and obscure Japanese language resources to train my AI on, please contact me anytime!
+Professionally, I build and ship web and mobile applications from initial planning through production deployment. My recent work includes B2B operational systems, cross-platform mobile applications, Linux-hosted infrastructure, geospatial integrations, and AI-assisted software systems.
 
-Here is a quick chart of my other projects and forays into technomancy:
+Outside work, I maintain a multi-node Linux homelab and spend much of my time experimenting with embedded systems, local AI, radio networking, robotics, and distributed computing.
 
-| Name            | Field          | Description                                                | Tech Stack                                            |
-| --------------- | -------------- | ---------------------------------------------------------- | ----------------------------------------------------- |
-| Tesseract       | Networking     | Webserver for self-hosting apps                            | Nginx, Raspberry Pi, Debian GNU/Linux, Cloudflare DNS |
-| TLoJ            | Game Dev       | Top-down action/adventure game                             | Python, Pygames                                       |
-| Sekirei         | Web Dev        | Customizable mailer bot that utilizes AI and web scrapping | Python, ChatGPT, Selenium                             |
-| P4wnP1 A.L.O.A. | Cyber Security | USB-attachable pen testing device                          | Kali Linux, Raspberry Pi Zero                         |
+## What I'm building now
+
+### Deployable Mesh Network
+
+A distributed communications system using Raspberry Pi gateways, Reticulum, RNodes, and radio links to connect isolated LANs.
+
+The long-term goal is to mount gateway and relay nodes on autonomous drones and ground vehicles, creating a rapidly deployable mobile network for environments where conventional infrastructure is unavailable or impractical.
+
+**Areas:** Linux · Networking · Reticulum · Radio · Raspberry Pi · ESP32 · Distributed Systems · Robotics
+
+### Embedded Drone Platform
+
+An ESP32-based programmable drone used as both an embedded-systems learning platform and a future mobile communications node.
+
+**Areas:** C · ESP-IDF · Electronics · Sensors · Radio · Real-Time Systems
+
+### Mobile Ground Rover
+
+A Raspberry Pi Pico-based rover being developed as another mobile node for networking, telemetry, and autonomous-systems experiments.
+
+**Areas:** Embedded C · Microcontrollers · Robotics · Sensors · Control
+
+### Homelab Infrastructure
+
+A three-node Proxmox cluster hosting virtual machines and containers for web applications, Nextcloud deployments, media services, local AI inference, development infrastructure, and other self-hosted systems used from both Japan and the United States.
+
+**Areas:** Proxmox · Linux · Docker · NGINX · Networking · Cloudflare · Self-Hosting · Automation
+
+## Professional engineering
+
+My recent production work includes:
+
+* Two B2B operations platforms used by companies to manage workflows across dozens of customer accounts
+* Two Flutter mobile applications published for both iOS and Android
+* Laravel/Vue applications deployed to AlmaLinux infrastructure
+* QGIS/geospatial integration for operational data analysis
+* Full-cycle development from planning and architecture through deployment
+* Applied AI systems using both local and hosted models
+
+## Current technical direction
+
+I'm deliberately expanding downward through the computing stack:
+
+**C → Linux → Networking → Embedded Systems → Distributed Systems → Robotics**
+
+Python remains my primary language for automation, tooling, and applied AI.
+
+I'm especially interested in systems where software interacts with the physical world: robotics, autonomous systems, communications infrastructure, aerospace, embedded Linux, and resilient distributed networks.
+
+## Background
+
+Before moving full-time into engineering, I spent more than a decade working professionally in Japanese and English as a translator, writer, editor, educator, and presenter.
+
+That background still influences how I engineer: I care about understanding the actual problem, communicating clearly, documenting systems, and building things people can genuinely use.
+
+**Languages:** English · Japanese
+**Location:** Japan / open to relocation to the United States
+
